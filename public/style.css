@@ -46,3 +46,10 @@
     color: green; }
   .answer-feedback.incorrect {
     color: red; }
+
+.answer-feedback.correct {
+    color: green;
+}
+.answer-feedback.incorrect {
+    color: red;
+}
